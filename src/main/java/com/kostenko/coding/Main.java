@@ -1,4 +1,4 @@
-package nure.okm.coding;
+package com.kostenko.coding;
 
 public class Main {
   public static void main(String[] args) {

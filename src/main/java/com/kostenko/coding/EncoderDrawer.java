@@ -1,4 +1,4 @@
-package nure.okm.coding;
+package com.kostenko.coding;
 
 import java.awt.*;
 
